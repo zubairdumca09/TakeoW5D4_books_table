@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "title": "jklj",
+      "writer": "kkl",
+      "publisher": "jkkjllk",
+      "isbn": "jlkjk",
+      "subject": "3",
+      "availability": "no",
+      "numPages": "12",
+      "id": 1
+    },
+    {
+      "title": "Fundamentals",
+      "writer": "HC Verma",
+      "publisher": "Publisher",
+      "isbn": "asd123",
+      "subject": "5",
+      "availability": "yes",
+      "numPages": "1201",
+      "id": 2
+    },
+    {
+      "title": "Title1",
+      "writer": "Writer1",
+      "publisher": "Publisher1",
+      "isbn": "QWE123",
+      "subject": "3",
+      "availability": "notConfirmed",
+      "numPages": "1111",
+      "id": 3
+    },
+    {
+      "title": "khkjh",
+      "writer": "jkhjhjh",
+      "publisher": "hjkjhjhk",
+      "isbn": "jkhjkhjk",
+      "subject": "2",
+      "availability": "no",
+      "numPages": "12",
+      "id": 4
+    }
+  ]
+}
